@@ -1,4 +1,4 @@
-//* constants/env.js
+//* src/constants/env.js
 
 import { config } from "dotenv";
 
